@@ -4,11 +4,11 @@
     "oncran": true
   },
   {
-    "package": "simglm",
+    "package": "pdfsearch",
     "oncran": true
   },
   {
-    "package": "pdfsearch",
+    "package": "simglm",
     "oncran": true
   }
 ]
