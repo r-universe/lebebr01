@@ -8,13 +8,13 @@
 	url = https://github.com/lebebr01/highlighthtml
 	shallow = true
 	registered = true
-[submodule "pdfsearch"]
-	path = pdfsearch
-	url = https://github.com/lebebr01/pdfsearch
-	shallow = true
-	registered = true
 [submodule "simglm"]
 	path = simglm
 	url = https://github.com/lebebr01/simglm
+	shallow = true
+	registered = true
+[submodule "pdfsearch"]
+	path = pdfsearch
+	url = https://github.com/lebebr01/pdfsearch
 	shallow = true
 	registered = true
